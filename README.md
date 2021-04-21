@@ -13,32 +13,29 @@
 
 
 <p align="left">
- <a target="_blank" href="https://www.facebook.com/saiedafride11" style="text-decoration: line-through;" >
+ <a href="https://www.facebook.com/saiedafride11" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&labelColor=gray">
  </a>
-  <a target="_blank" href="https://www.youtube.com/c/SoftZeo" style="text-decoration: line-through;" >
+  <a href="https://www.youtube.com/c/SoftZeo" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&labelColor=gray">
  </a>
-  <a target="_blank" href="https://twitter.com/saiedafride11" style="text-decoration: line-through;" >
+  <a target="_blank" href="https://twitter.com/saiedafride11" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&labelColor=gray">
  </a>
-  <a target="_blank" href="https://www.behance.net/saiedafride11" style="text-decoration: line-through;" >
+  <a href="https://www.behance.net/saiedafride11" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/Behance-blue?style=flat&logo=Behance&labelColor=gray">
  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/saiedafride11/" style="text-decoration: line-through;" >
+  <a href="https://www.linkedin.com/in/saiedafride11/" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
  </a>
-  <a target="_blank" href="https://github.com/Saiedafride11" style="text-decoration: line-through;">
+  <a href="https://github.com/Saiedafride11" target="_blank" style="text-decoration: line-through;">
     <img src="https://img.shields.io/badge/Github-red?style=flat&logo=github&labelColor=gray">
   </a>
-  <a target="_blank" href="https://www.instagram.com/saiedafride11" style="text-decoration: line-through;">
+  <a href="https://www.instagram.com/saiedafride11" target="_blank" style="text-decoration: line-through;">
     <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&labelColor=gray">
   </a>
  
-
-   <a target="_blank" href="https://saiedafride11.github.io/Portfolio-Master/" style="text-decoration: line-through;"  >
+   <a href="https://saiedafride11.github.io/Portfolio-Master/" target="_blank" style="text-decoration: line-through;"  >
     <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=portfolio&labelColor=gray">
  </a>
 </p>
-
-<br />
