@@ -35,9 +35,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&labelColor=gray">
   </a>
  
- <a href="https://drive.google.com/file/d/1TrgEekGwDt4a-DxattL8BA-CotfYU11d/view?usp=sharing" style="text-decoration: line-through;">
-    <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray">
-  </a>
+
    <a target="_blank" href="https://saiedafride11.github.io/Portfolio-Master/" style="text-decoration: line-through;"  >
     <img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=portfolio&labelColor=gray">
  </a>
