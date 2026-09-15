@@ -25,7 +25,7 @@
   <a href="https://www.behance.net/saiedafride11" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/Behance-blue?style=flat&logo=Behance&labelColor=gray">
  </a>
-  <a href="https://www.linkedin.com/in/saiedafride11/" target="_blank" style="text-decoration: line-through;" >
+  <a href="https://www.linkedin.com/in/saiedafride111/" target="_blank" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
  </a>
   <a href="https://github.com/Saiedafride11" target="_blank" style="text-decoration: line-through;">
